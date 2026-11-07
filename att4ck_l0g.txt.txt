@@ -1,0 +1,10 @@
+Apr 06 09:10:12 Failed login for admin from 192.168.1.10
+Apr 06 09:10:15 Failed login for root from 192.168.1.10
+Apr 06 09:10:20 Failed login for user from 192.168.1.10
+Apr 06 09:11:05 Successful login for admin from 192.168.1.10
+Apr 06 09:11:30 Admin executed sudo command
+Apr 06 09:12:10 Suspicious file uploaded to server
+Apr 06 09:13:45 Connection to unknown IP 10.0.0.50
+Apr 06 09:14:00 Possible data exfiltration detected
+Apr 06 09:15:20 Antivirus disabled
+Apr 06 09:16:00 System reboot initiated
